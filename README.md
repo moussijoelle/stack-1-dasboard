@@ -1,12 +1,11 @@
 # Stack 1 Dashboard
 
-Panel con enlaces a los ejercicios del Stack 1 (galletas, restaurante y palíndromo).
+Panel de acceso a los ejercicios del Stack 1: galletas, restaurante y palíndromo.
 
 ## Qué hace
 
-- Tres tarjetas con descripción de cada ejercicio
+- Tres tarjetas con qué practica cada ejercicio
 - Enlaces a las demos en GitHub Pages
-- Presentación HTML · Tailwind · JS · Vite
 
 ## Cómo probarlo
 
@@ -16,12 +15,11 @@ Demo: https://moussijoelle.github.io/stack-1-dasboard/
 
 ## Cómo lo construí
 
-- Vite + Tailwind / DaisyUI (build en `assets/`)
-- Enlaces externos a los otros repos del stack
+Vite + Tailwind/DaisyUI. Esta página no contiene la lógica de los juegos: solo enlaza a los otros repos.
 
 ## Cómo verificarlo
 
-Sin tests. Abro el dashboard y compruebo que cada botón abre el ejercicio correcto.
+Abro cada botón y compruebo que caiga en el ejercicio correcto.
 
 ---
 
